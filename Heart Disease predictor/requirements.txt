@@ -1,4 +1,4 @@
-streamplit
-skl
+scikit-learn
 pandas
 numpy
+streamlit
